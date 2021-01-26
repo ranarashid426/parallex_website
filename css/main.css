@@ -5,7 +5,7 @@
 }
 
 body {
-  font-family: "Lato", sans-serif;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   line-height: 1.8;
   color: #444;
 }
@@ -28,14 +28,12 @@ ul {
 header {
   background: #4adede;
 }
-
 header #navbar {
   display: flex;
   flex-direction: row;
   align-items: center;
   justify-content: space-between;
 }
-
 header #navbar .logo a {
   color: #6180bd;
 }
