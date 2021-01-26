@@ -59,17 +59,17 @@ header {
     background: transparent; }
 
 .pimg1 {
-  background: url(/dist/css/img/img1.jpg) no-repeat center fixed;
+  background: url(/dist/img/img1.jpg) no-repeat center fixed;
   height: 100vh;
   width: 100%; }
 
 .pimg2 {
-  background: url(/dist/css/img/img2.jpg) no-repeat center fixed;
+  background: url(/dist/img/img2.jpg) no-repeat center fixed;
   height: 60vh;
   width: 100%; }
 
 .pimg3 {
-  background: url(/dist/css/img/img3.jpg) no-repeat center fixed;
+  background: url(/dist/img/img3.jpg) no-repeat center fixed;
   height: 60vh;
   width: 100%; }
 
